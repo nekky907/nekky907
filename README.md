@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey there, I'm NeK!
 
-<!--
-**nekky907/nekky907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Full-Stack Dev | 🚀 Maker of Cool Stuff | 😎 Enjoying the Chill Life  
 
-Here are some ideas to get you started:
+I'm a full-stack developer who loves turning ideas into reality—whether it's building slick web apps, experimenting with new tech, or just making something ridiculously fun. When I'm not coding, you’ll probably find me sipping coffee, tinkering with Raspberry Pi projects, or pretending I don’t have 50 tabs open.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ What I Do  
+- 🖥️ **Full-Stack Development** – Frontend, backend, I stack them all.  
+- 🎨 **Creative Builds** – Love mixing art, tech, and a sprinkle of chaos.  
+- 🛠️ **Tinkering** – Raspberry Pi, 3D printing, automation? Yes, please.  
+- 🏝️ **Chill & Code** – Because life’s too short for stress.  
+
+🛠️ Tech I Like  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)  
+... and more!  
+
+📫 Let's Connect  
+- 💻 **GitHub:** You’re already here. Nice.  
+- 🏗️ **Building Something Cool?** Hit me up, let’s make magic.  
+
+💡 **Motto:** *"Write code, drink tea, stay awesome."* 🚀  
