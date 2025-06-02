@@ -4,7 +4,7 @@ Hey there, I'm NeK!
 
 I'm a full-stack developer who loves turning ideas into reality—whether it's building slick web apps, experimenting with new tech, or just making something ridiculously fun. When I'm not coding, you’ll probably find me sipping coffee, tinkering with Raspberry Pi projects, or pretending I don’t have 50 tabs open.  
 
-✨ What I Do  
+What I Do  
 - 🖥️ **Full-Stack Development** – Frontend, backend, I stack them all.  
 - 🎨 **Creative Builds** – Love mixing art, tech, and a sprinkle of chaos.  
 - 🛠️ **Tinkering** – Raspberry Pi, 3D printing, automation? Yes, please.  
